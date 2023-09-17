@@ -7,7 +7,7 @@ Welcome to my portfolio website hosted on GitHub Pages! This repository showcase
 - **Name:** Boda Vamshi Krishna
 - **Email:** bodavamshikrishna30@gmail.com
 - **LinkedIn:** [Vamshi Krishna](https://www.linkedin.com/in/vamshi-krishna-288a7524a)
-- **GitHub:** [vamshi-31](https://github.com/vamshi-31)
+- **GitHub:** [Vamshi Krishna](https://github.com/vamshi-31)
 
 ## Projects
 
