@@ -31,9 +31,8 @@ Some of the skills and technologies I'm proficient in:
 - CSS
 - JavaScript
 - React
-- Bootstrap
-- Git
-- ...
+- python
+- 
 
 ## Contact
 
