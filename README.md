@@ -1,16 +1,46 @@
-### Hi there 👋
+# Boda Vamshi Krishna's Portfolio
 
-<!--
-**vamshi-31/vamshi-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio website hosted on GitHub Pages! This repository showcases my web development skills and some of the projects I've worked on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Boda Vamshi Krishna
+- **Email:** bodavamshikrishna30@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vamshi-krishna-288a7524a)
+- **GitHub:** [GitHub Profile](https://github.com/vamshi-31)
+
+## Projects
+
+### Portfolio
+- **Description:** This portfolio website where I showcase my web development skills and projects.
+- **Demo:** [Link to Portfolio](https://yourportfoliodemo.com)
+- **Source Code:** [Link to GitHub Repository](https://github.com/vamshi-31/portfolio)
+
+### Calculator
+- **Description:** A simple calculator web application.
+- **Demo:** [Link to Calculator](https://yourcalculatordemo.com)
+- **Source Code:** [Link to GitHub Repository](https://github.com/vamshi-31/calculator)
+
+<!-- Add more projects as needed -->
+
+## Skills
+
+Some of the skills and technologies I'm proficient in:
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+- Git
+- ...
+
+## Contact
+
+Feel free to reach out to me for collaboration, job opportunities, or just to say hello!
+
+- Email: bodavamshikrishna30@gmail.com
+- LinkedIn: [Vamshi Krishna](https://www.linkedin.com/in/vamshi-krishna-288a7524a)
+- GitHub: [Vamshi Krishna](https://github.com/vamshi-31)
+
+Thank you for visiting my portfolio!
