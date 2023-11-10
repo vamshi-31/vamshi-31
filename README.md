@@ -32,7 +32,6 @@ Some of the skills and technologies I'm proficient in:
 - JavaScript
 - React
 - python
-- 
 
 ## Contact
 
